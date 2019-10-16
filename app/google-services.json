@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348609900273",
+    "firebase_url": "https://chatdesk-220bc.firebaseio.com",
+    "project_id": "chatdesk-220bc",
+    "storage_bucket": "chatdesk-220bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348609900273:android:320572a009fe3e2a63c350",
+        "android_client_info": {
+          "package_name": "com.yash.workdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348609900273-gak1oaumj3oa5jihtftukkembathkru9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bG9PBstioy-awt094ASosOQLWg5Cihw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348609900273-gak1oaumj3oa5jihtftukkembathkru9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
